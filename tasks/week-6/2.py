@@ -1,3 +1,16 @@
+"""
+Buatlah sebuah fungsi bernama hitung_diskon(harga, persen) yang menerima dua parameter:
+harga --> harga barang sebelum diskon
+persen --> persentase diskon
+Fungsi harus mengembalikan (return) harga akhir setelah diskon.
+Contoh:
+--> Masukkan harga awal: 100000
+--> Masukkan diskon (%): 20
+Output:
+--> Harga akhir: 80000
+"""
+
+
 def hitung_diskon(harga, persen):
     # tulis kode di sini (hitung harga akhir setelah diskon)
 

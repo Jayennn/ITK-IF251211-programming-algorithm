@@ -1,4 +1,11 @@
-# Program daftar nilai mahasiswa (List 2 Dimensi)
+"""
+Kembangkan program pada Soal 1, tetapi kali ini gunakan list 2 dimensi untuk menyimpan data mahasiswa dan nilainya.
+Setiap elemen list utama berisi data mahasiswa dalam bentuk: [nama, nilai]
+Program harus menampilkan:
+--> Seluruh daftar mahasiswa dan nilainya
+--> Nilai rata-rata kelas
+--> Mahasiswa dengan nilai tertinggi
+"""
 
 # Input jumlah mahasiswa
 n = int(input("Masukkan jumlah mahasiswa: "))

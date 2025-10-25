@@ -1,4 +1,13 @@
-# Program daftar nilai mahasiswa (List Paralel)
+"""
+Buatlah program Python yang meminta pengguna untuk memasukkan nama-nama mahasiswa dan nilai mereka.
+Gunakan dua list terpisah (paralel) untuk menyimpan:
+--> List nama
+--> List nilai
+Program menampilkan:
+--> Daftar mahasiswa dan nilainya
+--> Nilai rata-rata kelas
+--> Nama mahasiswa dengan nilai tertinggi
+"""
 
 # Input jumlah mahasiswa
 n = int(input("Masukkan jumlah mahasiswa: "))
