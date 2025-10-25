@@ -12,25 +12,18 @@ for i in range(n):
     print(f"\nMahasiswa ke-{i + 1}")
     nm = input("Nama: ")
     nl = float(input("Nilai: "))
-    # >>> Lengkapi bagian untuk menambahkan nama dan nilai ke list <<<
-    # list_nama.append(_____)
-    # list_nilai.append(_____)
+    # Tambahkan nama dan nilai ke list
+    # tulis kode di sini
 
 # Tampilkan daftar nilai
 print("\nDaftar Nilai:")
-# >>> Lengkapi bagian untuk menampilkan data dari kedua list <<<
-# for i in range(_____):
-#     print(f"{list_nama[i]} : {list_nilai[i]}")
+# tulis kode di sini
 
 # Hitung rata-rata
-# >>> Lengkapi rumus rata-rata menggunakan fungsi sum() dan len() <<<
-# rata = _____
+# tulis kode di sini
 
 # Cari nilai tertinggi
-# >>> Gunakan fungsi max() dan index() untuk mencari nama dan nilai tertinggi <<<
-# maks = _____
-# indeks = _____
-# nama_maks = _____
+# tulis kode di sini
 
 # Tampilkan hasil akhir
 print(f"\nRata-rata nilai: {rata:.2f}")

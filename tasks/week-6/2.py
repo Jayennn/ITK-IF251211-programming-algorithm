@@ -1,12 +1,16 @@
 def hitung_diskon(harga, persen):
-    # tambahkan kode disini
+    # tulis kode di sini (hitung harga akhir setelah diskon)
 
     return harga_akhir
 
 
-# buat variable harga yang menerima inputan dari user
+# buat variabel harga yang menerima inputan dari user
+# tulis kode di sini
 
-# buat variable persen yang menerima inputan dari user
+# buat variabel persen yang menerima inputan dari user
+# tulis kode di sini
 
-# buat variable harga_akhir yang menerima return dari fungsi hitung_diskon
+# buat variabel harga_akhir yang menerima return dari fungsi hitung_diskon
+# tulis kode di sini
+
 print(harga_akhir)

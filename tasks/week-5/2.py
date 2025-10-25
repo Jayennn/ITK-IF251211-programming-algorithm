@@ -11,28 +11,19 @@ for i in range(n):
     print(f"\nMahasiswa ke-{i + 1}")
     nm = input("Nama: ")
     nl = float(input("Nilai: "))
-    # >>> Lengkapi bagian untuk menambahkan data ke dalam list 2D <<<
-    # data.append([_____, _____])
+    # Tambahkan data ke dalam list 2D
+    # tulis kode di sini
 
 # Tampilkan daftar nilai
 print("\nDaftar Nilai Mahasiswa:")
-# >>> Lengkapi bagian untuk menampilkan isi list data <<<
-# for i in range(len(data)):
-#     print(f"{i+1}. {_____} - {_____}")
+# tulis kode di sini
 
 # Hitung rata-rata
-# >>> Gunakan perulangan untuk menjumlahkan semua nilai <<<
 total = 0
-# for d in _____:
-#     total += _____
-# rata = total / _____
+# tulis kode di sini
 
 # Cari nilai tertinggi
-# >>> Gunakan logika percabangan untuk membandingkan nilai tertinggi <<<
-# tertinggi = data[0]
-# for d in data:
-#     if _____ > _____:
-#         tertinggi = _____
+# tulis kode di sini
 
 # Tampilkan hasil akhir
 print(f"\nRata-rata nilai: {rata:.2f}")
